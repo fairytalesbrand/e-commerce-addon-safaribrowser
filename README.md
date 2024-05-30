@@ -1,7 +1,4 @@
-# e-commerce-addon-safaribrowser
-<p align="center">
-  <img src="" alt="Add-on Safari Browser Logo" width="250">
-</p>
+
 
 <h1 align="center"> E-Commerce Add-on Safari Browser</h>
 
